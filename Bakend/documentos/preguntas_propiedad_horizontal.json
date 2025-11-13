@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 24,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 26,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 27,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 28,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 29,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 30,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 31,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 32,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 33,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 34,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 35,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 36,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 37,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 38,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 39,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 40,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 41,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 42,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 43,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 44,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 45,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 46,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 47,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 48,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 49,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 50,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 51,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 52,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 53,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 54,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 55,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 56,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 57,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 58,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 59,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 60,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 61,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 62,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 63,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 64,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 65,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 66,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 67,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 68,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 69,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 70,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 71,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 72,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 73,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 74,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 75,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 76,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 77,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 78,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 79,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 80,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 81,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 82,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 83,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 84,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 85,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 86,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 87,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 88,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 89,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 90,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 91,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 92,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 93,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 94,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 95,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  },
+  {
+    "id": 96,
+    "pregunta": "¿Qué debe hacer un residente si su vecino hace ruido excesivo en la noche?",
+    "respuesta": "Debe informar primero a la administración del conjunto para que se realice un llamado formal. Si el comportamiento persiste, la administración puede imponer sanciones conforme al reglamento interno y la Ley 675 de 2001."
+  },
+  {
+    "id": 97,
+    "pregunta": "¿Puede la administración publicar la lista de residentes morosos en el tablero de anuncios?",
+    "respuesta": "No. Publicar datos personales o financieros en lugares visibles vulnera la Ley 1581 de 2012 sobre protección de datos personales. Deben notificarse de forma privada."
+  },
+  {
+    "id": 98,
+    "pregunta": "¿Un residente puede instalar cámaras de seguridad apuntando a zonas comunes?",
+    "respuesta": "No. Solo la administración puede instalar cámaras en zonas comunes con fines de seguridad, previa notificación a los residentes."
+  },
+  {
+    "id": 99,
+    "pregunta": "¿Qué hacer si un residente deja basura fuera del horario de recolección?",
+    "respuesta": "La administración puede hacer un llamado de atención y aplicar las sanciones establecidas en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 100,
+    "pregunta": "¿Un propietario puede alquilar su apartamento por días mediante plataformas como Airbnb?",
+    "respuesta": "Depende del reglamento de la copropiedad. Si está prohibido el uso comercial o turístico, no puede hacerlo sin autorización de la asamblea."
+  }
+]

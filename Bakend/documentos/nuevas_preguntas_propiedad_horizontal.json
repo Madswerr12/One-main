@@ -1,0 +1,502 @@
+[
+  {
+    "id": 101,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 102,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 103,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 104,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 105,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 106,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 107,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 108,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 109,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 110,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 111,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 112,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 113,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 114,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 115,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 116,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 117,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 118,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 119,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 120,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 121,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 122,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 123,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 124,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 125,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 126,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 127,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 128,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 129,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 130,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 131,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 132,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 133,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 134,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 135,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 136,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 137,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 138,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 139,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 140,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 141,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 142,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 143,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 144,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 145,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 146,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 147,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 148,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 149,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 150,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 151,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 152,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 153,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 154,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 155,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 156,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 157,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 158,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 159,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 160,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 161,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 162,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 163,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 164,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 165,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 166,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 167,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 168,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 169,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 170,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 171,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 172,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 173,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 174,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 175,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 176,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 177,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 178,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 179,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 180,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 181,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 182,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 183,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 184,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 185,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 186,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 187,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 188,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 189,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 190,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  },
+  {
+    "id": 191,
+    "pregunta": "¿Puede un residente negarse a pagar la cuota extraordinaria aprobada por la asamblea?",
+    "respuesta": "No. Todas las decisiones aprobadas legalmente por la asamblea general son de obligatorio cumplimiento para los propietarios, incluso si no estuvieron de acuerdo."
+  },
+  {
+    "id": 192,
+    "pregunta": "¿Qué debe hacer la administración si un visitante causa daños en las zonas comunes?",
+    "respuesta": "Debe registrar el incidente, identificar al responsable y cobrar los daños al propietario de la unidad que autorizó el ingreso del visitante."
+  },
+  {
+    "id": 193,
+    "pregunta": "¿Es legal que la administración cobre intereses por mora en el pago de las cuotas?",
+    "respuesta": "Sí. La Ley 675 de 2001 autoriza el cobro de intereses moratorios siempre que esté establecido en el reglamento de propiedad horizontal."
+  },
+  {
+    "id": 194,
+    "pregunta": "¿Puede la administración limitar el acceso a las zonas comunes a los residentes morosos?",
+    "respuesta": "No se puede restringir el uso de bienes comunes esenciales, pero sí se pueden limitar beneficios adicionales si el reglamento lo establece."
+  },
+  {
+    "id": 195,
+    "pregunta": "¿Qué debe hacer un propietario si considera que una decisión de la asamblea es ilegal?",
+    "respuesta": "Puede presentar una demanda de impugnación ante un juez dentro de los dos meses siguientes a la notificación del acta."
+  },
+  {
+    "id": 196,
+    "pregunta": "¿Puede el administrador ingresar a una propiedad privada sin autorización del dueño?",
+    "respuesta": "No. Solo puede hacerlo con autorización expresa del propietario o en caso de emergencia que afecte bienes comunes o seguridad general."
+  },
+  {
+    "id": 197,
+    "pregunta": "¿Qué hacer si la administración filtra información personal de un residente?",
+    "respuesta": "El residente puede solicitar la eliminación o corrección de los datos y denunciar el caso ante la Superintendencia de Industria y Comercio por violación a la Ley 1581 de 2012."
+  },
+  {
+    "id": 198,
+    "pregunta": "¿Pueden las copropiedades compartir la base de datos de residentes con empresas comerciales?",
+    "respuesta": "No. Solo se puede compartir información con autorización previa del titular o cuando exista un contrato de tratamiento de datos."
+  },
+  {
+    "id": 199,
+    "pregunta": "¿Qué debe contener un aviso de cámaras de seguridad en una copropiedad?",
+    "respuesta": "Debe informar que el lugar está siendo monitoreado, la finalidad del uso de las imágenes y los datos de contacto del responsable del tratamiento."
+  },
+  {
+    "id": 200,
+    "pregunta": "¿Puede un residente solicitar copia del acta de asamblea?",
+    "respuesta": "Sí. Cualquier propietario puede solicitarla a la administración, la cual debe entregarla dentro de un tiempo razonable sin alterar la información."
+  }
+]
