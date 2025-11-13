@@ -100,7 +100,9 @@ export default {
 
     async botResponse(userMessage, loadingMessage) {
       try {
-        const response = await fetch('http://127.0.0.1:5000/ask', { 
+        // https://ia-propsyng.ngrok.app
+        // http://127.0.0.1:5000/ask
+        const response = await fetch('https://ia-propsyng.ngrok.app/ask', { 
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ question: userMessage }),
